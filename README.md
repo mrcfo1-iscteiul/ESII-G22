@@ -11,8 +11,8 @@ Foi alcançado todos os objetivos deste complemento desde:
 2-Apresentar os 2 ficheiros com "highlighting" nas diferenças entre as 2 tags
 
 
-Para executar este projeto basta:
 
+Para executar este projeto basta:
 1-gerar o jar do projeto java
 
 2-escrever um script sh exemplo:
