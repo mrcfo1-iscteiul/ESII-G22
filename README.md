@@ -13,6 +13,7 @@ Foi alcançado todos os objetivos deste complemento desde:
 
 
 Para executar este projeto basta:
+
 1-gerar o jar do projeto java
 
 2-escrever um script sh exemplo:
